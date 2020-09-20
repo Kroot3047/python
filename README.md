@@ -1,2 +1,2 @@
 # python
-python projects
+this folder contains python scripts
